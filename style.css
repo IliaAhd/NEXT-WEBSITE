@@ -5,6 +5,7 @@
   font-family: "Kumbh Sans" sans-serif;
 }
 
+/* Navbar Section */
 .navbar {
   background-color: #131313;
   height: 5rem;
@@ -129,7 +130,6 @@
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 99;
-    height: 50vh;
     font-size: 1.6rem;
   }
 
